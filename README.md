@@ -1,4 +1,4 @@
-# Random User Generatoe with Vue and Axios
+# Random User Generator with Vue and Axios
 
 
 
